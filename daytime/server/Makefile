@@ -1,2 +1,2 @@
 all:
-	      g++ main.cpp -o server
+	g++ main.cpp -o server
